@@ -1,0 +1,18 @@
+.susan-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.susan-button {
+ border: 1px solid black;
+ background-color: black;
+ color: white;
+ text-decoration: none;
+ font-size: 30px;
+ padding: 10px 30px;
+ border-radius: 30px;
+}
+
+.susan-info {
+    font-family: 'Courier New', Courier, monospace;
+}
